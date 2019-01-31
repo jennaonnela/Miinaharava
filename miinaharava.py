@@ -1,4 +1,3 @@
-#Tehneet: Jenna Onnela, Elina Lassi ja Janne Onnela
 
 import haravasto
 import random
